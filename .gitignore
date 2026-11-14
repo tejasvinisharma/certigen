@@ -1,0 +1,18 @@
+# Generated certificates
+output/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Real attendee lists: keep them out of a public repo
+private_data/
